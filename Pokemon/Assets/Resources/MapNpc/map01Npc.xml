@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>202</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>여기는 002map으로 가는 통로야</itemDialog>
+    <dialog>여기는 002map으로 가는 통로야 들어가볼래? ㅎㅎ</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>False</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>64</npcTileNumber>
+    <itemNumber>1</itemNumber>
+    <itemDialog>안녕 나는 상처약을 지니고있어</itemDialog>
+    <dialog>상처약은 포켓몬을 치료할 수 있어!</dialog>
+    <isMoveOn>False</isMoveOn>
+    <isFightOn>False</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>85</npcTileNumber>
+    <itemNumber>2</itemNumber>
+    <itemDialog>여기는 07맵 통로!</itemDialog>
+    <dialog>여기는 07맵으로 가는 길이야!</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>

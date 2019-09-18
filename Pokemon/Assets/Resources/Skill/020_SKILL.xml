@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PossibleList>
+  <Skill>
+     <Level>0</Level>
+     <No>33</No>
+  </Skill>
+  <Skill>
+     <Level>0</Level>
+     <No>39</No>
+  </Skill>
+  <Skill>
+     <Level>0</Level>
+     <No>98</No>
+  </Skill>
+  <Skill>
+     <Level>7</Level>
+     <No>98</No>
+  </Skill>
+  <Skill>
+     <Level>14</Level>
+     <No>158</No>
+  </Skill>
+  <Skill>
+     <Level>27</Level>
+     <No>116</No>
+  </Skill>
+  <Skill>
+     <Level>41</Level>
+     <No>162</No>
+  </Skill>
+</PossibleList>

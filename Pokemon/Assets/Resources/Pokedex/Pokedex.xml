@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pokedex>
+  <Pokemon>
+    <No>001</No>
+    <Name>이상해씨</Name>
+    <Kind>씨앗포켓몬</Kind>
+    <Height>0.7</Height>
+    <Weight>6.9</Weight>
+    <Detail>태어났을 때부터 등에 이상한 씨앗이 심어져 있으며 몸과 함께 자란다고 한다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>002</No>
+    <Name>이상해풀</Name>
+    <Kind>씨앗포켓몬</Kind>
+    <Height>1.0</Height>
+    <Weight>13.0</Weight>
+    <Detail>등의 봉오리가 부풀어 오르면 달콤한 냄새가 감돌기 시작한다. 큰 꽃이 필 조짐이다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>003</No>
+    <Name>이상해꽃</Name>
+    <Kind>씨앗포켓몬</Kind>
+    <Height>2.0</Height>
+    <Weight>100.0</Weight>
+    <Detail>비가 내린 다음 날은 등의 꽃향기가 강해진다. 향기에 이끌려 포켓몬이 모여든다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>004</No>
+    <Name>파이리</Name>
+    <Kind>도룡뇽포켓몬</Kind>
+    <Height>0.6</Height>
+    <Weight>8.5</Weight>
+    <Detail>꼬리의 불꽃은 기분을 표현한다. 즐거울 때는 흔들흔들 불꽃이 흔들리고 화가 났을 때는 맹렬히 불타오른다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>005</No>
+    <Name>리자드</Name>
+    <Kind>화염포켓몬</Kind>
+    <Height>1.1</Height>
+    <Weight>19.0</Weight>
+    <Detail>강한 적과 싸움을 거듭하다 흥분하면 푸르스름한 불꽃을 뿜어낼 때가 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>006</No>
+    <Name>리자몽</Name>
+    <Kind>화염포켓몬</Kind>
+    <Height>1.7</Height>
+    <Weight>90.5</Weight>
+    <Detail>강한 상대를 찾아 하늘을 날아다닌다. 무엇이든 다 녹여버리는 고열의 불꽃을 자신보다 약한 자에게 들이대지 않는다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>007</No>
+    <Name>꼬부기</Name>
+    <Kind>꼬마거북포켓몬</Kind>
+    <Height>0.5</Height>
+    <Weight>9.0</Weight>
+    <Detail>등껍질에 숨어 몸을 보호한다. 상대의 빈틈을 놓치지 않고 물을 뿜어내어 반격한다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>008</No>
+    <Name>어니부기</Name>
+    <Kind>거북포켓몬</Kind>
+    <Height>1.0</Height>
+    <Weight>22.5</Weight>
+    <Detail>푹신한 털로 덮인 큰 꼬리는 오래 살수록 깊은 색으로 변한다. 등껍질의 상처는 강자임을 증명한다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>009</No>
+    <Name>거북왕</Name>
+    <Kind>껍질포켓몬</Kind>
+    <Height>1.6</Height>
+    <Weight>85.5</Weight>
+    <Detail>등껍질의 분사구로 하는 조준은 정확하다. 물 탄환으로 50m 떨어진 빈 캔을 명중시킬 수 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>010</No>
+    <Name>캐터피</Name>
+    <Kind>애벌레포켓몬</Kind>
+    <Height>0.3</Height>
+    <Weight>2.9</Weight>
+    <Detail>빨리 성장하고 싶어서인지 식욕이 왕성하여 하루에 100장의 잎사귀를 먹는다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>011</No>
+    <Name>단데기</Name>
+    <Kind>번데기포켓몬</Kind>
+    <Height>0.7</Height>
+    <Weight>9.9</Weight>
+    <Detail>강철같이 단단한 껍질로 부드러운 몸을 보호하고 있다. 진화할 때까지 가만히 참고 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>012</No>
+    <Name>버터플</Name>
+    <Kind>나비포켓몬</Kind>
+    <Height>1.1</Height>
+    <Weight>32.0</Weight>
+    <Detail>예쁜 꽃의 꿀을 좋아한다. 캐터피를 노리는 새포켓몬을 발견하면 맹독을 흩뿌려 내쫒는다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>013</No>
+    <Name>뿔충이</Name>
+    <Kind>송충이포켓몬</Kind>
+    <Height>0.3</Height>
+    <Weight>3.2</Weight>
+    <Detail>숲이나 풀밭에 많이 서식한다. 머리끝에 5cm 정도의 작고 날카로운 독침을 지니고 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>014</No>
+    <Name>딱충이</Name>
+    <Kind>번데기포켓몬</Kind>
+    <Height>0.6</Height>
+    <Weight>10.0</Weight>
+    <Detail>거의 움직이지 않고 나무에 매달려 있지만 내부는 진화 준비로 굉장히 바쁜 상태다. 그 증거로 몸이 뜨거워져 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>015</No>
+    <Name>독침붕</Name>
+    <Kind>독벌포켓몬</Kind>
+    <Height>1.0</Height>
+    <Weight>29.5</Weight>
+    <Detail>영역에 대한 집착이 매우 강해서 독침붕이 사는 곳에는 가까이 가지 않는 것이 신상에 좋다. 화나면 집단으로 습격해 온다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>016</No>
+    <Name>구구</Name>
+    <Kind>아기새포켓몬</Kind>
+    <Height>0.3</Height>
+    <Weight>1.8</Weight>
+    <Detail>싸움을 좋아하지 않는 얌전한 성격이지만 어설프게 건드리면 강력한 반격을 당하게 된다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>017</No>
+    <Name>피죤</Name>
+    <Kind>새포켓몬</Kind>
+    <Height>1.1</Height>
+    <Weight>30.0</Weight>
+    <Detail>넓은 영역을 가지고 있어 침입한 방해자는 철저하게 쪼아버린다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>018</No>
+    <Name>피죤투</Name>
+    <Kind>새포켓몬</Kind>
+    <Height>1.5</Height>
+    <Weight>39.5</Weight>
+    <Detail>아름답게 윤이 나는 깃털을 가진 포켓몬이다. 머리 깃털의 아름다움에 마음을 빼앗겨 피죤투를 기르는 트레이너도 많다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>019</No>
+    <Name>꼬렛</Name>
+    <Kind>쥐포켓몬</Kind>
+    <Height>0.3</Height>
+    <Weight>3.5</Weight>
+    <Detail>앞니가 죽을 때까지 계속 자라기 때문에 관리가 필요하다. 이갈이 용품을 준비하지 않으면 기둥을 갉는다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>020</No>
+    <Name>레트라</Name>
+    <Kind>쥐포켓몬</Kind>
+    <Height>0.7</Height>
+    <Weight>18.5</Weight>
+    <Detail>수염으로 밸런스를 잡고 있다. 이빨이 점점 길어지기 때문에 무엇이든 갉아서 닳게 하고 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>021</No>
+    <Name>깨비참</Name>
+    <Kind>아기새포켓몬</Kind>
+    <Height>0.3</Height>
+    <Weight>2.0</Weight>
+    <Detail>날개가 짧아 나는 것이 서툴다. 쉴 새 없이 움직이며 풀숲의 벌레 포켓몬을 쪼아대고 있다.</Detail>
+  </Pokemon>
+  <Pokemon>
+    <No>022</No>
+    <Name>깨비드릴조</Name>
+    <Kind>부리포켓몬</Kind>
+    <Height>1.2</Height>
+    <Weight>38.0</Weight>
+    <Detail>터프하고 지구력도 우수하다. 먼 태곳적 벽화 속에 깨비드릴조처럼 보이는 포켓몬이 그려져 있는 것이 발견 되었다.</Detail>
+  </Pokemon>
+</Pokedex>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoList>
+  <Item>
+    <No>1</No>
+    <Type>1</Type>
+    <Name>상처약</Name>
+    <Text>HP를 20 회복시킨다.</Text>
+  </Item>
+  <Item>
+    <No>2</No>
+    <Type>4</Type>
+    <Name>오랭열매</Name>
+    <Text>체력을 10 회복한다.</Text>
+  </Item>
+  <Item>
+    <No>3</No>
+    <Type>2</Type>
+    <Name>몬스터볼</Name>
+    <Text>야생 포켓몬에게 사용하여 포켓몬을 포획한다.</Text>
+  </Item>
+  <Item>
+    <No>4</No>
+    <Type>3</Type>
+    <Name>메가톤펀치</Name>
+    <Text>포켓몬에게 해당 기술을 가르친다.</Text>
+  </Item>
+</InfoList>

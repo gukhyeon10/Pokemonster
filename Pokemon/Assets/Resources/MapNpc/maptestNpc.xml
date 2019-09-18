@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>92</npcTileNumber>
+    <itemNumber>3</itemNumber>
+    <itemDialog>나는 몬스터볼을 가지고있어</itemDialog>
+    <dialog>내자리는 92번째 자리야 </dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>False</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>266</npcTileNumber>
+    <itemNumber>1</itemNumber>
+    <itemDialog>here you are</itemDialog>
+    <dialog>안녕하세요 한국인입니다.</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>

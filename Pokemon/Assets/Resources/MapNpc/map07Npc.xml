@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>25</npcTileNumber>
+    <itemNumber>3</itemNumber>
+    <itemDialog>몬스터볼 있어?</itemDialog>
+    <dialog>몬스터볼 잘써~</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>

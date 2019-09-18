@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>65</npcTileNumber>
+    <itemNumber>2</itemNumber>
+    <itemDialog>이 건물은 내 집이야 ㅎ</itemDialog>
+    <dialog>안녕 내 집에 초대할게 ㅎㅎ</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>False</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>49</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>아이템 줄때 대사</itemDialog>
+    <dialog>안녕 우리는 형제</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>47</npcTileNumber>
+    <itemNumber>3</itemNumber>
+    <itemDialog>내집 엄청 크지? ㅎㅎ 이거 줄게</itemDialog>
+    <dialog>안녕 또 왔네 ㅎ</dialog>
+    <isMoveOn>False</isMoveOn>
+    <isFightOn>False</isFightOn>
+  </Npc>
+</NpcInfo>

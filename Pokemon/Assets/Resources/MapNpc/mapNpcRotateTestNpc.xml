@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>33</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>아이템 줄때 대사</itemDialog>
+    <dialog>대사</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>

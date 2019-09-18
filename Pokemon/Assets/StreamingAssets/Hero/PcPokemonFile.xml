@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PcPokemon>
+  <Pokemon>
+    <No>015</No>
+    <Name>독침붕</Name>
+    <Level>6</Level>
+    <Attack>17</Attack>
+    <Defence>11</Defence>
+    <SpecialAttack>11</SpecialAttack>
+    <SpecialDefence>15</SpecialDefence>
+    <Speed>15</Speed>
+    <RemainHp>25</RemainHp>
+    <MaxHp>25</MaxHp>
+    <SkillOne>31</SkillOne>
+    <SkillOnePp>20</SkillOnePp>
+    <SkillTwo>0</SkillTwo>
+    <SkillTwoPp>0</SkillTwoPp>
+    <SkillThree>0</SkillThree>
+    <SkillThreePp>0</SkillThreePp>
+    <SkillFour>0</SkillFour>
+    <SkillFourPp>0</SkillFourPp>
+  </Pokemon>
+</PcPokemon>

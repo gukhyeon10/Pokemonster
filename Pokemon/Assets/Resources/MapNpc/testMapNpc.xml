@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>190</npcTileNumber>
+    <itemNumber>1</itemNumber>
+    <itemDialog>대사 입력</itemDialog>
+    <dialog>대사 입력란</dialog>
+    <isMoveOn>False</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>433</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>대사</itemDialog>
+    <dialog>대사</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>297</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>대사</itemDialog>
+    <dialog>대사</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>

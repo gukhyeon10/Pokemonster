@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcCheck>
+  <Npc>
+    <npcTileNumber>80</npcTileNumber>
+    <npcCheck>1</npcCheck>
+  </Npc>
+  <Npc>
+    <npcTileNumber>91</npcTileNumber>
+    <npcCheck>0</npcCheck>
+  </Npc>
+  <Npc>
+    <npcTileNumber>67</npcTileNumber>
+    <npcCheck>0</npcCheck>
+  </Npc>
+</NpcCheck>

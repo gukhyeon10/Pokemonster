@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SaveFile>
+  <Hero>
+    <Name>주인공</Name>
+    <Money>10000</Money>
+    <TotalPokemon>6</TotalPokemon>
+    <PlayTime>30000</PlayTime>
+    <StartPlayTime>18년12월11일</StartPlayTime>
+    <Map>map02</Map>
+    <Location>82</Location>
+  </Hero>
+</SaveFile>

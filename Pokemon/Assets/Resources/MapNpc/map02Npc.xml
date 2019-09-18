@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NpcInfo>
+  <Npc>
+    <npcTileNumber>80</npcTileNumber>
+    <itemNumber>2</itemNumber>
+    <itemDialog>넌 어떻게 왔니?</itemDialog>
+    <dialog>안녕 반가워 ^^</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>91</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>아이템 줄때 대사</itemDialog>
+    <dialog>제가 포켓몬들을 치료해줄게요 </dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+  <Npc>
+    <npcTileNumber>67</npcTileNumber>
+    <itemNumber>0</itemNumber>
+    <itemDialog>PC를 켰습니다!</itemDialog>
+    <dialog>PC 전원을 켰다!</dialog>
+    <isMoveOn>True</isMoveOn>
+    <isFightOn>True</isFightOn>
+  </Npc>
+</NpcInfo>
